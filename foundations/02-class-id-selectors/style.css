@@ -1,0 +1,16 @@
+.odd,
+.odd.oddity {
+    background: rgb(238, 154, 168);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+#first {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+#next{
+    background: #90ee90;
+    font-family: monospace;
+    font-size: 24px;
+    font-weight: 700;
+}
