@@ -11,5 +11,5 @@ Issues with the cascade can be the bane of their existence for many when it come
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- Did you make sure to not edit the HTML file? YES
+- If you added selectors to the CSS, do they target a valid HTML element? YES
