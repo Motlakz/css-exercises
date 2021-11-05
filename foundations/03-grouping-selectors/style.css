@@ -1,0 +1,12 @@
+.clickbait {
+    background: #000;
+    color: #fff;
+}
+.jailbait {
+    background: yellow;
+}
+.clickbait,
+.jailbait {
+    font-family: 'Times New Roman', 'Helvetica', sans-serif;
+    font-size: 28px;
+}
